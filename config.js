@@ -41,23 +41,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['19179009987'] //ur owner number
-global.ownername = "AᒪE᙭ᗩ"
+global.owner = ['6285290646632'] //ur owner number
+global.ownername = "Vanya"
 global.ytname = "YT: ALEXA YT" //ur yt chanel name
 global.socialm = "GitHub: Zetxlix" //ur github or insta name
 global.location = "Indonesia, Jawa Barat, Jakarta" //ur location
 
 //bot bombdy
-global.botname = "AᒪE᙭ᗩ BOTᘔ༂" //ur bot name
+global.botname = "Vanya Bot ᘔ༂" //ur bot name
 global.websitex = "https://www.youtube.com/channel/UCEHzs2xqkjpDpdpjfak_Wzw" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "AᒪE᙭ᗩ BOTᘔ༂ Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.packname = "Vanya Bot ᘔ༂ Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "AᒪE᙭ᗩ BOTᘔ༂"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['19179009987'] //ur owner tag
-global.ownernummenu = ['19179009987'] //ur owner number in menu and all
-global.watermark = "AᒪE᙭ᗩ BOTᘔ༂." //ur watermark
+global.ownertag = ['6285290646632'] //ur owner tag
+global.ownernummenu = ['6285290646632'] //ur owner number in menu and all
+global.watermark = "Vanya Bot ᘔ༂." //ur watermark
 global.botscript = "https://wa.me/qr/D26JAA2RXJYDP1"
 global.linkz1 = "https://chat.whatsapp.com/E3m4zWG9IpO6Bz2AMs1sOM"
 global.linkz2 = "https://www.instagram.com/hyzzdhenta_"
